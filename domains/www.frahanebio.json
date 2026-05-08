@@ -1,0 +1,11 @@
+{
+  "description": "Redirection www pour le site Frahane BIO",
+  "owner": {
+    "username": "Frahane",
+    "email": "Frahanebio@gmail.com",
+    "twitter": "Frahane1"
+  },
+  "record": {
+    "CNAME": "enterecommerce.netlify.app"
+  }
+}
