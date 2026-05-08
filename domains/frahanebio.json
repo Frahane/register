@@ -1,0 +1,11 @@
+{
+  "description": "Landing page du moteur e-commerce white label Frahane BIO",
+  "owner": {
+    "username": "Frahane",
+    "email": "Frahanebio@gmail.com",
+    "twitter": "Frahane1"
+  },
+  "record": {
+    "CNAME": "enterecommerce.netlify.app"
+  }
+}
